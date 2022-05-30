@@ -1,0 +1,42 @@
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.exe
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.deps.json
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.runtimeconfig.json
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.dll
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.pdb
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.dll
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.pdb
+C:\Users\Admin\source\repos\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.genruntimeconfig.cache
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.exe
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.deps.json
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.runtimeconfig.json
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.runtimeconfig.dev.json
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.dll
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.pdb
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.AssemblyInfo.cs
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.dll
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.pdb
+C:\Users\User\Desktop\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.exe
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.deps.json
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.runtimeconfig.json
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.dll
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\bin\Debug\netcoreapp3.1\Emek haqqi komekcisi.pdb
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.dll
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.pdb
+C:\Users\Admin\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\Emek haqqi komekcisi\Emek haqqi komekcisi\obj\Debug\netcoreapp3.1\Emek haqqi komekcisi.genruntimeconfig.cache
